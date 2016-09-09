@@ -1,13 +1,44 @@
 body{
 	text-align: center;
-	font-family: NHaas;
+	font-family: Gill Sans;
 }
 
 h1 {font-size: 30px;
 
 }
 
-@font-face {
-	font-family:'NHaas';
-	src: url("NHaas.ttf");
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #1d0edd;
+}
+
+/* visited link */
+a:visited {
+    color: #1d0edd;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1d0edd;
+}
+
+/* selected link */
+a:active {
+    color: #1d0edd;
 }
