@@ -1,14 +1,21 @@
 body{
 	text-align: center;
 	font-family: Gill Sans;
+	font-weight: lighter;
 	font-size:18px;
+	line-height: 30px;
+	margin-top: 90px;
+	margin-left: 400px;
+	margin-right: 400px;
 }
 
-h1 {font-size: 35px;
-	color: 	#D3D3D3;
+h1 {font-size: 40px;
+	color: 	gray;
 	letter-spacing: 1.5px;
 	line-height: 70px;
-	font-family: Futura;
+	font-family: Gill Sans;
+	font-weight: lighter;
+
 
 }
 
@@ -22,6 +29,7 @@ a:visited {
 
 a:hover {
     text-decoration: none;
+
 }
 
 a:active {
@@ -40,10 +48,13 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: #1d0edd;
+   
+    background: #1d0edd;
+
 }
 
 /* selected link */
 a:active {
     color: #1d0edd;
 }
+
