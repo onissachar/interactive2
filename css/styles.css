@@ -1,11 +1,14 @@
 body{
 	text-align: center;
 	font-family: Gill Sans;
+	font-size:18px;
 }
 
-h1 {font-size: 30px;
+h1 {font-size: 35px;
 	color: 	#D3D3D3;
-	font-family: Helvetica;
+	letter-spacing: 1.5px;
+	line-height: 70px;
+	font-family: Futura;
 
 }
 
