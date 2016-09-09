@@ -1,7 +1,13 @@
 body{
 	text-align: center;
-	font-family: Comic Sans;
+	font-family: NHaas;
 }
 
 h1 {font-size: 30px;
+
+}
+
+@font-face {
+	font-family:'NHaas';
+	src: url("NHaas.ttf");
 }
